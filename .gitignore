@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Data
+data/raw/
+data/processed/
+
+# Model artifacts
+artifacts/models/
+artifacts/forecasts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docs
+docs/build/
+docs/_build/
+docs/build/html/
+docs/build/doctrees/
